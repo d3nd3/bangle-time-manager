@@ -1,0 +1,9 @@
+- Enter in time of awakening
+- Calculates time of sleep
+
+I noticed that the onTouch on bangle 1 , can detect both sides at once, thus allowing a 3rd touch location
+along the intercept of the 2.
+
+Here is a mockup, using Triangle spaced buttons design.
+
+When i wake up , i press the button
